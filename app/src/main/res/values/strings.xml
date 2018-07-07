@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Task#3</string>
+    <string name="stt">Status</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="pass">Password</string>
+    <string name="fbjasdanjkn">Email</string>
+    <string name="username">Username</string>
+    <string name="rsdfdb">Register</string>
+    <string name="login">Login</string>
+    <string name="hjhefa">Email</string>
+    <string name="passworddf">Password</string>
+    <string name="click_here_to_see_your_informationrgr">Click here to see your information</string>
+    <string name="qwerh">Email</string>
+    <string name="dfh">Name</string>
+    <string name="passwordlll">Password</string>
+    <string name="mmhhgg">Status</string>
+    <string name="logoutkkk">Logout</string>
+</resources>
